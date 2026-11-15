@@ -3,7 +3,6 @@ This is the map that won fifth place in the UNC 2024 GIS Day Competition.
 
 Below are various OBXFS 2025 Capstone Maps. 
 <img width="3507" height="2480" alt="basicstudysitesround47" src="https://github.com/user-attachments/assets/a6e09699-afa2-4f70-b34a-0ca3898bc663" />
-<img width="3507" height="2480" alt="landmarks (after aaron)" src="https://github.com/user-attachments/assets/9fd42c52-da7a-41e2-91f7-874539bd1f1f" />
 <img width="3507" height="2480" alt="OFFICIAL w: corrected scale, trails" src="https://github.com/user-attachments/assets/2c330037-f0c6-41ff-b3c5-15d5368635d8" />
 <img width="3507" height="2480" alt="whoownswhat" src="https://github.com/user-attachments/assets/3130c4b7-2428-4844-a3d6-84407b8b7e1b" />
 <img width="3507" height="2480" alt="veg:water:parcels official" src="https://github.com/user-attachments/assets/458b83de-a321-449c-ad03-2ecc50f270c6" />
