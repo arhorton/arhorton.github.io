@@ -18,3 +18,5 @@ git add --renormalize .
 
 # to display the updated files
 git status
+
+git commit -m "Normalize all the line endings"
