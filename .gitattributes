@@ -15,3 +15,6 @@
 
 # redo-ing all of my files with the changed line endings
 git add --renormalize .
+
+# to display the updated files
+git status
