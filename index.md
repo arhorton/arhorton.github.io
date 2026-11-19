@@ -2,6 +2,9 @@
 
 ### Below are various OBXFS 2025 Capstone Maps. These maps were created in the context of the 2025 Capstone Report, titled 'Patterns of Protection' that was presented to over 100 community members and scientific professionals at the Coastal Studies Institute in Wanchese, North Carolina. The YouTube link is provided here (https://www.youtube.com/watch?v=qpldcU6y1Bw&t=448s) if you would like to watch the entire presentation. 
 
+#### The map below is the map I created for the introduction section of our report. The three important coastal counties needed (Date, Hyde, and Currituck) are plotted, and the smaller inset map represents our study area. This map was created with QGIS using NC OneMap data. 
+<img width="3507" height="2480" alt="Introduction Section Map" src="https://github.com/user-attachments/assets/ea52aa10-8ced-49b7-a3c9-ab1a35997d93" />
+
 #### The map below is a map of the study sites that were sampled throughout the course of the capstone in Nags Head Woods. There were three longitudinal dunes sampled, one on the northern side of the forest (N), one on the southern (S) and one in the middle (M); the two ends of these dunes sampled were classified as 'sound' or 'ocean' side, depending on their relative location to the Albemarle-Pamlico Sound to the West and the Atlantic Ocean to the East. These classifications are reflected in the labels. The elevation raster placed underneath the sites makes it obvious that they are areas of high relative elevation to the remainder of the coastal area. This map was made in QGIS, and the data was gleaned from our capstone report and the NC OneMap Service. 
 <img width="3507" height="2480" alt="Basic Study Sites" src="https://github.com/user-attachments/assets/2e9258ed-9044-414b-97d5-cc4e26afd3cb" />
 
