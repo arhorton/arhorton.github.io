@@ -1,4 +1,4 @@
-*#### The maps below are in timeline order, with the older maps being displayed first and the more recent ones being displayed further down. 
+#### The maps below are in timeline order, with the older maps being displayed first and the more recent ones being displayed further down. 
 
 ### Below are various OBXFS 2025 Capstone Maps. These maps were created in the context of the 2025 Capstone Report, titled 'Patterns of Protection' that was presented to over 100 community members and scientific professionals at the Coastal Studies Institute in Wanchese, North Carolina. The YouTube link is provided here (https://www.youtube.com/watch?v=qpldcU6y1Bw&t=448s) if you would like to watch the entire presentation. 
 
